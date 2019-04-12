@@ -2,7 +2,7 @@
 
 module.exports = {
   url: "https://lumen.netlify.com",
-  title: "Blog by John Doe",
+  title: "Blog by Matthew Spurdle",
   subtitle:
     "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
   copyright: "© All rights reserved.",
@@ -24,10 +24,9 @@ module.exports = {
     }
   ],
   author: {
-    name: "John Doe",
+    name: "Matthew Spurdle",
     photo: "/photo.jpg",
-    bio:
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    bio: "Frontend dev that loves data, hobby jogging, and leather craft.",
     contacts: {
       email: "#",
       telegram: "#",
