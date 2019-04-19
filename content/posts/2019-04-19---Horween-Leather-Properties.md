@@ -3,7 +3,7 @@ title: Horween Leather Properties
 date: "2019-04-19-01T16:22:00.121Z"
 template: "post"
 draft: true
-slug: "/pots/horween-leather-properties/"
+slug: "/posts/horween-leather-properties/"
 tags:
   - "Leathercraft"
   - "Horween"
